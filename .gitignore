@@ -1,0 +1,27 @@
+# Hasta verisi hicbir kosulda depoya girmez
+data/
+*.xlsx
+*.xls
+*.csv
+*.sav
+
+# Kodun urettigi ciktilar
+results/
+figures/
+output/
+
+# R ve editor artiklari
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+__pycache__/
+*.pyc
+
+# LaTeX artiklari
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
